@@ -4,6 +4,7 @@
     "/*":
     {
       "X-Author":"kalkt"
+      "Access-Control-Allow-Origin":"*"
     }
   }
   
