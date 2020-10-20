@@ -3,7 +3,7 @@
   {
     "/*":
     {
-      "X-Author":"kalkt"
+      "X-Author":"kalkt",
       "Access-Control-Allow-Origin":"*"
     }
   }
